@@ -3,7 +3,7 @@
 $host = 'b9mkpsjugiouteo6fsoh-postgresql.services.clever-cloud.com';
 $dbname = 'b9mkpsjugiouteo6fsoh';
 $user = 'udgbbznahompk1nhtrvp';
-$pass = 'uSUq4onqEDvbfU1cOXZJ1tkm62usa8';
+$pass = '';
 $port = '50013';      // e.g., 5432 (default PostgreSQL port)
 
 // Connection string
